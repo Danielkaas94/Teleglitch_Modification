@@ -10,3 +10,9 @@
 
 ## Link to Steam Store Page: https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/
 ### Thanks to Test3 Projects for making this game.
+
+
+Join CodeWars with me!: www.codewars.com/r/hGyTsQ
+<p>
+  <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
+</p>
