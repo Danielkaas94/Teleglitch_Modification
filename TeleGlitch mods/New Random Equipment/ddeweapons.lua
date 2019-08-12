@@ -251,6 +251,7 @@ if HasDDE() then
 	than various self-defence guns that my colleagues had. I also managed to grab 
 	this box of chocolate on my way here. I guess it was pure instinct]]},
 
+	-- DooM
 	{"pystol","pyammo","pyammo","pyammo","pump","ppammo","ppammo","ppammo","smmedkit",
 		"smtimebomb","smtimebomb","smtimebomb","smtimebomb",text=[[I am good friend with the Doom-Guy Stan Blazkowicz who is a descendent, 
 		of the nazi-killer William "B.J" Blazkowicz
@@ -260,6 +261,7 @@ if HasDDE() then
 		just some time before the outbreak here in Medusa-1C started.
 		So what a coincidence! Rip and Tear!!]]},
 
+	-- Half-Life λ
 	{"pystol","pyammo","pyammo","pyammo","pump","ppammo","ppammo","powerlegs","smmedkit",
 		"armor","armor","tube","hardware","smtimebomb",text=[[I am good friend with one who is a descendent, of Gordon Freeman
 		who worked at Black Mesa Research Facility.
@@ -267,7 +269,22 @@ if HasDDE() then
 		his former equipments and HEV suit from the time he kicked ass all day long 
 		just some time before the outbreak here in Medusa-1C started.
 		So what a coincidence!]]},
+		
+	-- I AM IRON MAN 🛡
+	{"lasgun2","lasgun2","aprocketitem","aprocketitem","rocketitem","rocketitem","battery","battery","battery","battery","battery","powerlegs",
+		"armor","armor","armor","armor","teleport","metalplate","metalplate","hardware",text=[[I am good friend with one who is a descendent, of Tony Stark
+		the former CEO of Stark Industries.
+		I got a present from him.
+		His former MARK III suit. This powered exoskeleton is a field army worth of armor and firepower.
+		I AM IRON MAN!!]]},
 
+	-- Dirty Harry - Feeling Lucky Punk?
+	{"revolver","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo",
+		"revolverammo","dynamite","dynamite","dynamite","dynamite",text=[[I am good friend with one who is a descendent, of Clint Eastwood
+		who worked as an actor.
+		I got a gift from him,
+		The gun. Dirty Harry's Smith & Wesson .44 Magnum
+		Do I feel lucky? Well, do you punk?]]},
 	}
 
 end
