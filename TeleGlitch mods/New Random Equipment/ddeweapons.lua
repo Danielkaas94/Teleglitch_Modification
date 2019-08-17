@@ -293,7 +293,6 @@ if HasDDE() then
 		I got a gift from him,
 		The gun. Dirty Harry's Smith & Wesson .44 Magnum
 		Do I feel lucky? Well, do you punk?]]},
-	}
 
 	-- Dynamite Harry - Olsen Gang 💣
 	{"beer","beer","beer","beer","beer","beer","beer","beer","beer","beer","beer","beer",
