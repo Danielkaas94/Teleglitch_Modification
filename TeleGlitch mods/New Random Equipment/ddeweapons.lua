@@ -187,6 +187,14 @@ if HasDDE() then
 	}
 	setmetatable(itemtable.chocolate,medkittemplate)
 
+	itemtable.beer={
+		frame			=85,
+		invtext			="beer",
+		longtext		=[[Carlsberg - Probably the best beer in the world.]],
+		health			=15,
+		stack			=24,
+	}
+	setmetatable(itemtable.beer,medkittemplate)
 
 	startitempackages=
 	{
@@ -285,6 +293,20 @@ if HasDDE() then
 		I got a gift from him,
 		The gun. Dirty Harry's Smith & Wesson .44 Magnum
 		Do I feel lucky? Well, do you punk?]]},
+	}
+
+	-- Dynamite Harry - Olsen Gang 💣
+	{"beer","beer","beer","beer","beer","beer","beer","beer","beer","beer","beer","beer",
+		"beer","beer","beer","beer","beer","beer","beer","beer","beer","beer","beer","beer",
+		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",
+		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",
+		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",
+		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",
+		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",text=[[I am good friend with one who is a descendent, of Benny's brother Harry
+		who worked for the Olsen Gang as an explosives expert.
+		I got this container from him,
+		Lots of dynamite and some danish beers.
+		Probably the best beer in the world.]]},
 	}
 
 end
