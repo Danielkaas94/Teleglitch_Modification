@@ -8,8 +8,16 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 
 
+
+
+
+
+
+
+
+
 # Screenshots 📺📸
-<details><summary style="font-size:1.6em; margin-bottom: 25px">➡ Click To Reveal ⬅</summary>
+<details><summary>➡ Click To Reveal ⬅</summary>
 
 
 
@@ -100,19 +108,43 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 </details>
 
+</details>
+
+
+
+
+
+
+
+
+
+# Videos 🎥🎬📺
+
+<details><summary>➡ Click To Reveal ⬅</summary>
+
+# Teleglitch - DooM Start 😈
+[![Teleglitch - DooM Start](https://img.youtube.com/vi/gFdIlOCuU-g/maxresdefault.jpg)](https://youtu.be/gFdIlOCuU-g)
+
+# Teleglitch - Half-Life Start λ 
+[![Teleglitch - Half-Life Start](https://img.youtube.com/vi/yCfWBDQjVvA/maxresdefault.jpg)](https://youtu.be/yCfWBDQjVvA)
+
+# Teleglitch - Iron Man Start 🛡
+[![Teleglitch - Iron Man Start](https://img.youtube.com/vi/7YG_aJWEHYc/maxresdefault.jpg)](https://youtu.be/7YG_aJWEHYc)
+
+# Teleglitch - Dirty Harry Start 🔫
+[![Teleglitch - Dirty Harry Start](https://img.youtube.com/vi/TY-YTcIDNb8/maxresdefault.jpg)](https://youtu.be/TY-YTcIDNb8)
+
+# Teleglitch - Dynamit Harry Start 🍺💣
+[![Teleglitch - Dynamite Harry Start](https://img.youtube.com/vi/JDUoz9UOiMM/maxresdefault.jpg)](https://youtu.be/JDUoz9UOiMM)
 
 </details>
 
-<!-- Video -->
-# Video 🎥🎬📺
 
 
-<embed width="420" height="315"
-src="https://youtu.be/gFdIlOCuU-g">
 
-<iframe width="420" height="315"
-src="https://youtu.be/yCfWBDQjVvA">
-</iframe>
+
+
+
 
 
 ## Link to [The Steam Store Page](https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/)
