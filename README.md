@@ -85,14 +85,14 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 ### Dynamite Harry 🍺💣
 <p align="center">
-  <img alt="My Dynamite Harry/Olsen Gang modification of the level 1 dialog" width="800" src="https://github.com/Danielkaas94/AppX/blob/master/Image/Teleglitch_DirtyHarry_Start.jpg?raw=true">
+  <img alt="My Dynamite Harry/Olsen Gang modification of the level 1 dialog" width="800" src="https://github.com/Danielkaas94/AppX/blob/master/Image/Teleglitch_DynamiteHarry_Start.jpg?raw=true">
 </p>
 
 > Dynamite Harry inspired modification of the level 1 dialog
 
 
 <p align="center">
-  <img alt="My Dynamite Harry/Olsen Gang inspired modification of the level 1 gear" width="800" src="https://github.com/Danielkaas94/AppX/blob/master/Image/Teleglitch_DirtyHarry_Start_items.jpg?raw=true">
+  <img alt="My Dynamite Harry/Olsen Gang inspired modification of the level 1 gear" width="800" src="https://github.com/Danielkaas94/AppX/blob/master/Image/Teleglitch_DynamiteHarry_Start_items.jpg?raw=true">
 </p>
 
 > Dynamite Harry inspired modification of the level 1 gear
