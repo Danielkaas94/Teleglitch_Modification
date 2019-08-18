@@ -2,6 +2,11 @@
 
 It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza.com/teleglitch-die-more-edition/TGTG01GSKtelg001.html/)
 
+<p align="center">
+  <img alt="Teleglitch: Die More Edition" width="500" src="https://ggtriple.files.wordpress.com/2013/06/teleglitch-die-more-edition-pc-logo.png">
+</p>
+
+
 ## ScreenShot 📺📸
 ### My little Doom-inspired modification of the level 1 dialog + gear (pistol, shotgun and stimpack)
 <p align="center">
