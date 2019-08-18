@@ -12,7 +12,7 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 ## Link to [The Steam Store Page](https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/)
 ### Thanks to Test3 Projects for making this game.
 
-[Join CodeWars with me!](www.codewars.com/r/hGyTsQ)
+[Join CodeWars with me!](https://www.codewars.com/r/hGyTsQ/)
 <p>
   <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
 </p>
