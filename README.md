@@ -103,6 +103,16 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 </details>
 
+<!-- Video -->
+# Video 🎥🎬📺
+
+
+<embed width="420" height="315"
+src="https://youtu.be/gFdIlOCuU-g">
+
+<iframe width="420" height="315"
+src="https://youtu.be/yCfWBDQjVvA">
+</iframe>
 
 
 ## Link to [The Steam Store Page](https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/)
