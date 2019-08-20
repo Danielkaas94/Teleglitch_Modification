@@ -17,7 +17,7 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 
 # Screenshots 📺📸
-<details><summary>➡ Click To Reveal ⬅</summary>
+<details><summary><div style="font-size: 28px" >➡ Click To Reveal ⬅</div></summary>
 
 
 
