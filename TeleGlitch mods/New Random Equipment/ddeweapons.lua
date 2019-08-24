@@ -260,8 +260,8 @@ if HasDDE() then
 	this box of chocolate on my way here. I guess it was pure instinct]]},
 
 	-- DooM
-	{"pystol","pyammo","pyammo","pyammo","pump","ppammo","ppammo","ppammo","smmedkit",
-		"smtimebomb","smtimebomb","smtimebomb","smtimebomb",text=[[I am good friend with the Doom-Guy Stan Blazkowicz who is a descendent, 
+	{"pystol","pyammo","pyammo","pyammo","pump","ppammo","ppammo","ppammo","ppammo","ppammo","ppammo","medkit",
+		"timebomb","timebomb","timebomb","timebomb",text=[[I am good friend with the Doom-Guy Stan Blazkowicz who is a descendent, 
 		of the nazi-killer William "B.J" Blazkowicz
 		who works at Union Aerospace Corporations Mars Research Facility.
 		I got some presents from him,
@@ -279,15 +279,17 @@ if HasDDE() then
 		So what a coincidence!]]},
 		
 	-- I AM IRON MAN 🛡
-	{"lasgun2","lasgun2","aprocketitem","aprocketitem","rocketitem","rocketitem","battery","battery","battery","battery","battery","powerlegs",
-		"armor","armor","armor","armor","teleport","metalplate","metalplate","hardware",text=[[I am good friend with one who is a descendent, of Tony Stark
+	{"lasgun2","lasgun2","aprocketitem","aprocketitem","rocketitem","rocketitem",
+		"battery","battery","battery","battery","battery","battery","battery","battery",
+		"powerlegs","armor","armor","armor","armor","teleport","metalplate","metalplate","hardware",text=[[I am good friend with one who is a descendent, of Tony Stark
 		the former CEO of Stark Industries.
 		I got a present from him.
-		His former MARK III suit. This powered exoskeleton is a field army worth of armor and firepower.
+		His former MARK III suit.
+		This powered exoskeleton is a field army worth of armor and firepower.
 		I AM IRON MAN!!]]},
 
 	-- Dirty Harry - Feeling Lucky Punk?
-	{"revolver","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo",
+	{"revolver","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo","revolverammo",
 		"revolverammo","dynamite","dynamite","dynamite","dynamite",text=[[I am good friend with one who is a descendent, of Clint Eastwood
 		who worked as an actor.
 		I got a gift from him,
@@ -301,7 +303,8 @@ if HasDDE() then
 		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",
 		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",
 		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",
-		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",text=[[I am good friend with one who is a descendent, of Benny's brother Harry
+		"dynamite","dynamite","dynamite","dynamite","dynamite","dynamite",
+		"pexpammo","pexpammo","pexpammo",text=[[I am good friend with one who is a descendent, of Benny's brother Harry
 		who worked for the Olsen Gang as an explosives expert.
 		I got this container from him,
 		Lots of dynamite and some danish beers.
