@@ -310,6 +310,30 @@ if HasDDE() then
 		Lots of dynamite and some danish beers.
 		Probably the best beer in the world.]]},
 	}
+	-- Xenonauts Trooper (Rifle)
+	{"automaat","auammo","auammo","auammo","auammo","auammo","auammo",
+		"pystol","pyammo","pyammo","pyammo",
+		"smtimebomb","smtimebomb","medkit","armor","armor",text=[[I am good friend with one who is a descendent, of Josh Eales
+		who worked for the Xenonauts back in 1979.
+		He got a Distinguished Service Medal and many others
+		for his brave achievement back on Earth.
+		
+		I got this container from him,
+		there was also a letter with it, it says:
+		'Xenonauts equipped with an assault rifle 
+		are useful in every situation.
+		
+		May you have infinite of Time Units
+		
+		- Josh Eagles - 
+		1. September 1979'
+		
+		It looks like standard equipment for a Xenonaut Rifle Trooper,
+		from that time period.
+		There is an Assault Rifle and a pistol.
+		Handgrenades, medkit and a Jackal Combat Armor.
+		But what does he mean with Time Units?]]},
+	}
 
 end
 
