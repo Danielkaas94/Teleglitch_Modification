@@ -166,6 +166,34 @@ if HasDDE() then
 		shortcutkey		="sc_3"
 	}
 	setmetatable(itemtable.pinkdeath,relvtemplate)
+	
+	itemtable.assaultrifle={
+		clipsize		=20,
+		spread			=2,
+		reloadtime		=3,
+		clipreloadtime	=60,
+		bulletspeed		=18,
+		damage			=20,
+		range			=20,
+		pierce			=0.5,
+		shake			=2,
+		walldamage		=40,
+
+		frame			=2,
+		holdframe		=8,
+		shootframe		=9,
+		reloadframe		=10,
+		ammotype		=0,
+		shootsound		="automaat_lask",
+		reloadsound		="automaat_laadimine",
+		invtext			="m-16-a-1",
+		longtext		=[[Versatile and standard issue weapon of the Xenonauts during that era. 
+		Resembles the M16 rifle, twenty rounds magazine.]],
+		bullettype=		bullettypes.normal,
+		shortcutkey		="sc_2"
+	}
+	setmetatable(itemtable.assaultrifle,relvtemplate)
+	
 
 	itemtable.dynamite={
 		frame			=86,
@@ -311,7 +339,7 @@ if HasDDE() then
 		Probably the best beer in the world.]]},
 	}
 	-- Xenonauts Trooper (Rifle)
-	{"automaat","auammo","auammo","auammo","auammo","auammo","auammo",
+	{"assaultrifle","auammo","auammo","auammo","auammo","auammo","auammo","auammo",
 		"pystol","pyammo","pyammo","pyammo",
 		"smtimebomb","smtimebomb","medkit","armor","armor",text=[[I am good friend with one who is a descendent, of Josh Eales
 		who worked for the Xenonauts back in 1979.
