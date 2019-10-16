@@ -192,7 +192,35 @@ if HasDDE() then
 		bullettype=		bullettypes.normal,
 		shortcutkey		="sc_2"
 	}
+	
 	setmetatable(itemtable.assaultrifle,relvtemplate)
+	
+	itemtable.acppystol={
+		clipsize		=7,
+		spread			=1,--2
+		reloadtime		=-5,
+		clipreloadtime	=30,
+		bulletspeed		=12,
+		damage			=36,
+		range			=20,
+		pierce			=0.3,
+		shake			=3,
+		walldamage		=45,
+
+		frame			=0,
+		holdframe		=5,
+		shootframe		=6,
+		reloadframe		=7,
+		ammotype		=2,
+		shootsound		="pystol_lask",
+		reloadsound		="pystol_laadimine",
+		invtext			="45acppstl",
+		longtext		=".45 ACP semi-automatic pistol.\nResembles the M1911. Good against small numbers.",
+
+		bullettype=		bullettypes.normal,
+		shortcutkey		="sc_1"
+	}
+	setmetatable(itemtable.acppystol,relvtemplate)
 	
 
 	itemtable.dynamite={
@@ -340,8 +368,8 @@ if HasDDE() then
 	}
 	-- Xenonauts Trooper (Rifle)
 	{"assaultrifle","auammo","auammo","auammo","auammo","auammo","auammo","auammo",
-		"pystol","pyammo","pyammo","pyammo",
-		"smtimebomb","smtimebomb","medkit","armor","armor",text=[[I am good friend with one who is a descendent, of Josh Eales
+		"acppystol","pyammo","pyammo","pyammo",
+		"smtimebomb","smtimebomb","medkit","armor","armor",text=[[I am good friend with one who is a descendent, of Josh Eagles
 		who worked for the Xenonauts back in 1979.
 		He got a Distinguished Service Medal and many others
 		for his brave achievement back on Earth.
