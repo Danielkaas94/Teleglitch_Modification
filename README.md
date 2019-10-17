@@ -107,6 +107,25 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 </details>
 
+<details><summary>➡ Xenonauts Start 👽</summary>
+
+### Xenonauts 👽
+<p align="center">
+  <img alt="My Xenonauts modification of the level 1 dialog" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_Xenonauts_Start.jpg?raw=true">
+</p>
+
+> Xenonauts inspired modification of the level 1 dialog
+
+
+<p align="center">
+  <img alt="My Xenonauts inspired modification of the level 1 gear" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_Xenonauts_items_Start.jpg?raw=true">
+</p>
+
+> Xenonauts inspired modification of the level 1 gear
+
+
+</details>
+
 </details>
 
 
