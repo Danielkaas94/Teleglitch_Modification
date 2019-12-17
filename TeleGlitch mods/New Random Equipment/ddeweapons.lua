@@ -250,7 +250,39 @@ if HasDDE() then
 		health			=15,
 		stack			=24,
 	}
+	
 	setmetatable(itemtable.beer,medkittemplate)
+	
+	itemtable.plasmacutter={
+		clipsize		=10,
+		spread			=2,
+		reloadtime		=-5,
+		clipreloadtime	=45,
+		bulletspeed		=5,
+		damage			=10,
+		range			=5,
+		pierce			=1,
+		shake			=6,
+		walldamage		=30,
+
+		frame			=0,
+		holdframe		=5,
+		shootframe		=6,
+		reloadframe		=7,
+		ammotype		=5,
+		ammocount		=1,
+		shootsound		="",
+		reloadsound		="laser_laadimine",
+
+		invtext			="plasma cutter",
+		longtext		=[[Isaac's Plasma Cutter.]],
+
+		bullettype=		bullettypes.laser,
+		shortcutkey		="sc_4",
+		lightbrightness	=0.0,
+		lightradius		=1.0,
+		}
+	setmetatable(itemtable.plasmacutter,relvtemplate)
 
 	startitempackages=
 	{
@@ -365,7 +397,7 @@ if HasDDE() then
 		I got this container from him,
 		Lots of dynamite and some danish beers.
 		Probably the best beer in the world.]]},
-	}
+
 	-- Xenonauts Trooper (Rifle)
 	{"assaultrifle","auammo","auammo","auammo","auammo","auammo","auammo","auammo",
 		"acppystol","pyammo","pyammo","pyammo",
@@ -389,8 +421,25 @@ if HasDDE() then
 		There is an Assault Rifle and a pistol.
 		Handgrenades, medkit and a Jackal Combat Armor.
 		But what does he mean with Time Units?]]},
+		
+	-- Isaac Clarke - Dead Space - Plasma Cutter
+	{"plasmacutter","battery","battery","battery","battery","battery","battery","battery",
+		"smmedkit","smmedkit","pyammo","medkit",
+		"medkit","hardware","armor","armor",text=[[
+		I am good friend with one who is a descendent of Isaac Clarke,
+		who was part of an emergency response unit of the USG Kellion,
+		sent to the planet cracker starship USG Ishimura to investigate and handle
+		the ship's mysterious communications failure.
+		Apparently the sole survivor of the incident.
+		
+		I got this container from him.
+		Isaac's Plasma Cutter, Model 211-V from the manufacturer Schofield Tools
+		A true relic from the USG Ishimura!
+		
+		and his Intermediate Engineer RIG with some medical packs in different sizes.]]},
+		
 	}
-
+	
 end
 
 function GetStartingItems()
