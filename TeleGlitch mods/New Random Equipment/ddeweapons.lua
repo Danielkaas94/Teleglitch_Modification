@@ -438,6 +438,24 @@ if HasDDE() then
 		
 		and his Intermediate Engineer RIG with some medical packs in different sizes.]]},
 		
+	-- Mr. 6 trigger man - revolver_6t all the way! But not with a big hat and no cattle ✝
+	{"revolver_6t","revolver_6t","revolver_6t","revolver_6t","revolver_6t","revolver_6t","revolver_6t","revolver_6t",
+		"revolver_6t","revolver_6t","revolver_6t","revolver_6t",
+		"revolver_6t","revolver_6t","revolver_6t","revolver_6t",
+		"revolver_6t","revolver_6t","revolver_6t","revolver_6t",text=[[
+		Days before the insident I got
+		A box of 6-trigger revolvers, from a 
+		Very good friend of mine. In the 
+		Early days, he would say something like:
+
+		God is smarter than you, and if you don't believe in him,
+		he is WAAAAAY SMARTER THAN YOU!!
+		
+		He was not a normal person, he was not broke
+		and he was not a CHEAP christian!]]},
+		
+	-- Teaser Soon™
+	-- "I put a birthday candle in your asshole and call you my cake" 🎂
 	}
 	
 end
