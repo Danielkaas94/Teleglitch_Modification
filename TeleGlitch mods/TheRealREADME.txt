@@ -1,9 +1,9 @@
 Welcome to The Real README, because the README is mostly just a flashy showcase and no installation information
 
 
-**************************
-		Installation - Doom Start
-**************************
+*************************************************
+		Installation - Doom Start				|
+*************************************************
 
 	Go to this folder:
 		...\Program Files\Steam\steamapps\common\TeleglitchDME\level1
@@ -22,9 +22,9 @@ Welcome to The Real README, because the README is mostly just a flashy showcase 
 
 
 
-**************************
-		Installation - New Random Equipment
-**************************
+*************************************************
+		Installation - New Random Equipment		|
+*************************************************
 
 	Go to this folder:
 		...\Program Files\Steam\steamapps\common\TeleglitchDME\lua
@@ -34,9 +34,9 @@ Welcome to The Real README, because the README is mostly just a flashy showcase 
 
 
 
-**************************
-		Installation - Doom Start in Random
-**************************
+*************************************************
+		Installation - Doom Start in Random		|
+*************************************************
 
 	Same as above - New Random Equipment.
 	It is the same as Doom start, it is just in the random starting gear as the only new addition.
