@@ -283,6 +283,30 @@ if HasDDE() then
 		lightradius		=1.0,
 		}
 	setmetatable(itemtable.plasmacutter,relvtemplate)
+	
+	itemtable.candle={
+		frame			=18,
+		invtext			="birthday candle",
+		longtext		=[[I put a birthday candle in your asshole and call you my cake!]],
+		nailcount		=0,
+		throwspeed		=20,
+		radius			=1.0,
+		stack			=25,
+	}
+	setmetatable(itemtable.candle,exptemplate)
+	
+	itemtable.alienweapon={
+		itype			=itemtypes.simple,
+		invtext			="alien weapon",
+		longtext		=[[An alien weapon.]],
+		sprite			="spr_asjad",
+		frame			=87,
+		r				=232/255,
+		g				=188/255,
+		b				=85/255,
+		stack=1
+	}
+	setmetatable(itemtable.alienweapon,basictemplate)
 
 	startitempackages=
 	{
@@ -439,11 +463,12 @@ if HasDDE() then
 		and his Intermediate Engineer RIG with some medical packs in different sizes.]]},
 		
 	-- Mr. 6 trigger man - revolver_6t all the way! But not with a big hat and no cattle ✝
-	{"revolver_6t","revolver_6t","revolver_6t","revolver_6t","revolver_6t","revolver_6t","revolver_6t","revolver_6t",
+	{	"revolver_6t","revolver_6t","revolver_6t","revolver_6t",
+		"revolver_6t","revolver_6t","revolver_6t","revolver_6t",
 		"revolver_6t","revolver_6t","revolver_6t","revolver_6t",
 		"revolver_6t","revolver_6t","revolver_6t","revolver_6t",
 		"revolver_6t","revolver_6t","revolver_6t","revolver_6t",text=[[
-		Days before the insident I got
+		Days before the insident, I got
 		A box of 6-trigger revolvers, from a 
 		Very good friend of mine. In the 
 		Early days, he would say something like:
@@ -454,8 +479,18 @@ if HasDDE() then
 		He was not a normal person, he was not broke
 		and he was not a CHEAP christian!]]},
 		
-	-- Teaser Soon™
 	-- "I put a birthday candle in your asshole and call you my cake" 🎂
+	{	"candle","candle","candle","candle","candle",
+		"candle","candle","candle","candle","candle",
+		"candle","candle","candle","candle","candle",
+		"candle","candle","candle","candle","candle",
+		"candle","candle","candle","candle","candle",
+		"alienweapon","armor","chocolate","chocolate",text=[[
+		The greatest survivor of all time.
+		
+		Welcome to The Real Teleglitch experience.]]},
+	
+	
 	}
 	
 end
