@@ -126,14 +126,66 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 </details>
 
+<details><summary>➡ Dead Space Start 👽</summary>
+
+### Dead Space 👽
+<p align="center">
+  <img alt="My Dead Space modification of the level 1 dialog" width="800" src="https://via.placeholder.com/700">
+</p>
+
+> Dead Space inspired modification of the level 1 dialog
+
+
+<p align="center">
+  <img alt="My Dead Space inspired modification of the level 1 gear" width="800" src="https://via.placeholder.com/700">
+</p>
+
+> Dead Space inspired modification of the level 1 gear
+
+</details>
+
+
+<details><summary>➡ Mr. Trigger Man Start 🎩🐄</summary>
+
+### Mr. Trigger Man Start 🎩🐄
+<p align="center">
+  <img alt="My Dave Ramsey modification of the level 1 dialog" width="800" src="https://via.placeholder.com/700">
+</p>
+
+> [REDACTED] inspired modification of the level 1 dialog
+
+
+<p align="center">
+  <img alt="My Dave Ramsey inspired modification of the level 1 gear" width="800" src="https://via.placeholder.com/700">
+</p>
+
+> [REDACTED] inspired modification of the level 1 gear
+
+</details>
+
+
+<details><summary>➡ The Real Survivor 🎂</summary>
+
+### The Real Survivor 🎂
+<p align="center">
+  <img alt="My penguinz0/2019 Guy modification of the level 1 dialog" width="800" src="https://via.placeholder.com/700">
+</p>
+
+> [REDACTED] inspired modification of the level 1 dialog
+
+
+<p align="center">
+  <img alt="My penguinz0/2019 Guy inspired modification of the level 1 gear" width="800" src="https://via.placeholder.com/700">
+</p>
+
+> [REDACTED] inspired modification of the level 1 gear
+
 </details>
 
 
 
 
-
-
-
+</details> <!-- Outer details-Tag! -->
 
 
 # Videos 🎥🎬📺
