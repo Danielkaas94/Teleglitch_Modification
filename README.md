@@ -130,14 +130,14 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 ### Dead Space 👽
 <p align="center">
-  <img alt="My Dead Space modification of the level 1 dialog" width="800" src="https://via.placeholder.com/700">
+  <img alt="My Dead Space modification of the level 1 dialog" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_Dead_Space_Start.jpg?raw=true">
 </p>
 
 > Dead Space inspired modification of the level 1 dialog
 
 
 <p align="center">
-  <img alt="My Dead Space inspired modification of the level 1 gear" width="800" src="https://via.placeholder.com/700">
+  <img alt="My Dead Space inspired modification of the level 1 gear" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_Dead_Space_items_Start.jpg?raw=true">
 </p>
 
 > Dead Space inspired modification of the level 1 gear
@@ -149,14 +149,14 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 ### Mr. Trigger Man Start 🎩🐄
 <p align="center">
-  <img alt="My Dave Ramsey modification of the level 1 dialog" width="800" src="https://via.placeholder.com/700">
+  <img alt="My Dave Ramsey modification of the level 1 dialog" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_MrTrigger_Start.jpg?raw=true">
 </p>
 
 > [REDACTED] inspired modification of the level 1 dialog
 
 
 <p align="center">
-  <img alt="My Dave Ramsey inspired modification of the level 1 gear" width="800" src="https://via.placeholder.com/700">
+  <img alt="My Dave Ramsey inspired modification of the level 1 gear" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_MrTrigger_items_Start.jpg?raw=true">
 </p>
 
 > [REDACTED] inspired modification of the level 1 gear
@@ -168,14 +168,14 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 ### The Real Survivor 🎂
 <p align="center">
-  <img alt="My penguinz0/2019 Guy modification of the level 1 dialog" width="800" src="https://via.placeholder.com/700">
+  <img alt="My penguinz0/2019 Guy modification of the level 1 dialog" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_TheReal_Start.jpg?raw=true">
 </p>
 
 > [REDACTED] inspired modification of the level 1 dialog
 
 
 <p align="center">
-  <img alt="My penguinz0/2019 Guy inspired modification of the level 1 gear" width="800" src="https://via.placeholder.com/700">
+  <img alt="My penguinz0/2019 Guy inspired modification of the level 1 gear" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_TheReal_items_Start.jpg?raw=true">
 </p>
 
 > [REDACTED] inspired modification of the level 1 gear
