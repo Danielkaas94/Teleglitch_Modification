@@ -213,6 +213,12 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 # Placeholder - Dead Space 👽
 [![Teleglitch - Xenonauts Start](https://img.youtube.com/vi/6YKKp4UXrOs/maxresdefault.jpg)](https://youtu.be/6YKKp4UXrOs)
 
+# Placeholder - Mr. Trigger Man 🎩🐄
+[![Teleglitch - Mr. Trigger Man](https://img.youtube.com/vi/vz-rdaE2uUw/maxresdefault.jpg)](https://youtu.be/vz-rdaE2uUw?t=284)
+
+# Placeholder - The Real Survivor 🎂
+[![Teleglitch - The Real Survivor](https://img.youtube.com/vi/PkWEy5_jIgk/maxresdefault.jpg)](https://youtu.be/PkWEy5_jIgk?t=212)
+
 </details>
 
 
