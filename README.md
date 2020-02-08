@@ -210,8 +210,8 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 # Teleglitch - Xenonauts 👽
 [![Teleglitch - Xenonauts Start](https://img.youtube.com/vi/5CO_ShYqQyI/maxresdefault.jpg)](https://youtu.be/5CO_ShYqQyI)
 
-# Placeholder - Dead Space 👽
-[![Teleglitch - Xenonauts Start](https://img.youtube.com/vi/6YKKp4UXrOs/maxresdefault.jpg)](https://youtu.be/6YKKp4UXrOs)
+# Teleglitch - Dead Space 👨‍🚀
+[![Teleglitch - Xenonauts Start](https://img.youtube.com/vi/ofJvdBdNAck/maxresdefault.jpg)](https://youtu.be/ofJvdBdNAck)
 
 # Placeholder - Mr. Trigger Man 🎩🐄
 [![Teleglitch - Mr. Trigger Man](https://img.youtube.com/vi/vz-rdaE2uUw/maxresdefault.jpg)](https://youtu.be/vz-rdaE2uUw?t=284)
