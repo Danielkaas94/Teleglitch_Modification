@@ -491,6 +491,23 @@ if HasDDE() then
 		Welcome to The Real Teleglitch experience.]]},
 	
 	
+	-- HUNK - Resident Evil 🎭
+	{	"smg","pystol","armor","armor","pyammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",text=[[
+		A friend of a friend, worked as an Umbrella Security Service Operator,
+		who was the leader of the ill-fated Alpha Team in the employment of Umbrella.
+		
+		I got a box of standard equipment.
+			Submachine gun
+			Backup pistol
+			Armor]]},
+	
+	
 	}
 	
 end
