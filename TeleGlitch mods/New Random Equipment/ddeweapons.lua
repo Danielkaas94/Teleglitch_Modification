@@ -490,7 +490,46 @@ if HasDDE() then
 		
 		Welcome to The Real Teleglitch experience.]]},
 	
-	
+	-- Gammelpot - Douwe Dabbert 🎅🎒
+	{	"fatjohn","revolver","nailbomb","timebomb",
+		"beer","chocolate","medkit","hardware","hardware",
+		"fattube","tube","nailbox","magnet","motor",
+		"nailbox","mchip","mchip","armor","armor",
+		"auammo","auammo","auammo","auammo","auammo",
+		"auammo","auammo","auammo","auammo","auammo",
+		"auammo","auammo","auammo","auammo","auammo",
+		"battery","battery","battery","battery","battery",
+		"battery","battery","battery","battery","battery",
+		"battery","battery","battery","battery","battery",
+		"cannonammo","cannonammo","cannonammo","cannonammo","cannonammo",
+		"cannonammo","cannonammo","cannonammo","cannonammo","cannonammo",
+		"cannonammo","cannonammo","cannonammo","cannonammo","cannonammo",
+		"hvammo","hvammo","hvammo","hvammo","hvammo",
+		"hvammo","hvammo","hvammo","hvammo","hvammo",
+		"hvammo","hvammo","hvammo","hvammo","hvammo",
+		"ppammo","ppammo","ppammo","ppammo","ppammo",
+		"ppammo","ppammo","ppammo","ppammo","ppammo",
+		"ppammo","ppammo","ppammo","ppammo","ppammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",
+		"pyammo","pyammo","pyammo","pyammo","pyammo",
+		"pexpammo","pexpammo","pexpammo","pexpammo","pexpammo",
+		"pexpammo","pexpammo","pexpammo","pexpammo","pexpammo",
+		"pexpammo","pexpammo","pexpammo","pexpammo","pexpammo",
+		"nailammo","nailammo","nailammo","nailammo","nailammo",
+		"nailammo","nailammo","nailammo","nailammo","nailammo",
+		"nailammo","nailammo","nailammo","nailammo","nailammo",
+		"revolverammo","revolverammo","revolverammo","revolverammo","revolverammo",
+		"revolverammo","revolverammo","revolverammo","revolverammo","revolverammo",
+		"revolverammo","revolverammo","revolverammo","revolverammo","revolverammo",
+		"riammo","riammo","riammo","riammo","riammo",
+		"riammo","riammo","riammo","riammo","riammo",
+		"riammo","riammo","riammo","riammo","riammo",text=[[
+		I am in distress!
+		Thank God that I possess The Magic Bundle of Douwe Dabbert!
+		
+		What do I need? I will start with some Armor...]]},
+
 	-- HUNK - Resident Evil 🎭
 	{	"smg","pystol","armor","armor","pyammo",
 		"pyammo","pyammo","pyammo","pyammo","pyammo",
