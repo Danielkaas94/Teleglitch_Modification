@@ -213,11 +213,18 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 # Teleglitch - Dead Space 👨‍🚀
 [![Teleglitch - Xenonauts Start](https://img.youtube.com/vi/ofJvdBdNAck/maxresdefault.jpg)](https://youtu.be/ofJvdBdNAck)
 
-# Placeholder - Mr. Trigger Man 🎩🐄
-[![Teleglitch - Mr. Trigger Man](https://img.youtube.com/vi/vz-rdaE2uUw/maxresdefault.jpg)](https://youtu.be/vz-rdaE2uUw?t=284)
+# Teleglitch - Mr. Trigger Man 🎩🐄
+[![Teleglitch - Mr. Trigger Man](https://img.youtube.com/vi/Fx5gEw_Z9kg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fx5gEw_Z9kg)
 
-# Placeholder - The Real Survivor 🎂
-[![Teleglitch - The Real Survivor](https://img.youtube.com/vi/PkWEy5_jIgk/maxresdefault.jpg)](https://youtu.be/PkWEy5_jIgk?t=212)
+# Teleglitch - The Real Survivor 🎂
+[![Teleglitch - The Real Survivor](https://img.youtube.com/vi/ohp8DT4R20A/maxresdefault.jpg)](https://www.youtube.com/watch?v=ohp8DT4R20A)
+
+# Teleglitch - Douwe Dabbert 🎅🎒
+[![Teleglitch - Douwe Dabbert](https://img.youtube.com/vi/0a_1fvAclCk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0a_1fvAclCk)
+
+# Teleglitch - HUNK 🤿
+[![Teleglitch - The Real Survivor](https://img.youtube.com/vi/fHOOJCxBQ0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=fHOOJCxBQ0U)
+
 
 </details>
 
