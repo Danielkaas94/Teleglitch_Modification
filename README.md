@@ -182,6 +182,23 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 </details>
 
+<details><summary>➡ Douwe Dabbert 🎅🎒</summary>
+
+### Douwe Dabbert 🎅🎒
+<p align="center">
+  <img alt="My Douwe Dabbert modification of the level 1 dialog" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_DouweDabbert_Start.jpg?raw=true">
+</p>
+
+> Douwe Dabbert inspired modification of the level 1 dialog
+
+
+<p align="center">
+  <img alt="My Douwe Dabbert inspired modification of the level 1 gear" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_DouweDabbert_items_Start.jpg?raw=true">
+</p>
+
+> Douwe Dabbert inspired modification of the level 1 gear
+
+</details>
 
 
 
