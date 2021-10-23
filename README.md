@@ -200,6 +200,24 @@ It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza
 
 </details>
 
+<details><summary>➡ HUNK 🤿</summary>
+
+### HUNK 🤿
+<p align="center">
+  <img alt="My HUNK modification of the level 1 dialog" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_HUNK_Start.jpg?raw=true">
+</p>
+
+> HUNK inspired modification of the level 1 dialog
+
+
+<p align="center">
+  <img alt="My HUNK inspired modification of the level 1 gear" width="800" src="https://github.com/Danielkaas94/Teleglitch_Modification/blob/master/Image/Teleglitch_HUNK_items_Start.jpg?raw=true">
+</p>
+
+> HUNK inspired modification of the level 1 gear
+
+</details>
+
 
 
 </details> <!-- Outer details-Tag! -->
