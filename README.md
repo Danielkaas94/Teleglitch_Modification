@@ -3,7 +3,7 @@
 It is a mod for the game [Teleglitch: Die More Edition](https://www.paradoxplaza.com/teleglitch-die-more-edition/TGTG01GSKtelg001.html/)
 
 <p align="center">
-  <img alt="Teleglitch: Die More Edition" width="600" src="https://ggtriple.files.wordpress.com/2013/06/teleglitch-die-more-edition-pc-logo.png">
+  <img alt="Teleglitch: Die More Edition" width="600" src="https://github.com/Danielkaas94/AppX/blob/master/Image/TeleGlitchTitle.png?raw=true">
 </p>
 
 
